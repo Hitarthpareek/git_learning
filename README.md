@@ -1,3 +1,5 @@
 # git_learning
 
-first
+Author is Hitarth pareek
+
+
